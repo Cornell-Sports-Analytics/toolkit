@@ -26,6 +26,7 @@ Sorted by sport.
 | Sport | Title | Description |
 |---|---|---|
 | Multi-sport | Kaggle | Hosts a massive collection of free, public datasets across thousands of topics. |
+| Multi-sport | [Ultimate Big Board ranking captures](https://ultimatebigboard.com/captures/) | NFL, NBA and WNBA aggregate mock-draft rankings with fixed dated CSV captures, citations and links to methodology. Analyst opinions rather than observed draft outcomes; selected captures, not a complete historical series. |
 | NFL | [Pro Football Reference](https://www.pro-football-reference.com/) | Historical NFL data since 1967 — player statistics, all-time leaders, draft history, coaches. Updated weekly; some data paywalled. |
 | NFL | NFLSavant | CSV play-by-play data from 2013–2024, segmented by team, play, down, formation, and play type. |
 | NFL | NFL Play | CSV data covering the NFL combine, draft, and a range of performance metrics. |
